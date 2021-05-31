@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Maria
 - 👀 I’m interested in Cognition, architectures (cognitive and computational), learning 
 - 🌱 I’m currently learning Assembly, and completing a Master's in cogsci.
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - comment here, I'll reach you.
 
 <!---

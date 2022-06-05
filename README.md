@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maria
 - 👀 I’m interested in Cognition, architectures (cognitive and computational), learning 
-- 🌱 I’m currently learning Assembly, and completing a Master's in cogsci.
-- 📫 How to reach me - comment here, I'll reach you.
+- 🌱 I’m currently learning Tensorflow, and completing a PhD in CogSci.
+- 📫 How to reach me - maria.vorobeva@cmail.carleton.ca
 
 <!---
 Verizzles/Verizzles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
